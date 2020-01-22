@@ -10,7 +10,7 @@ The afore mentioned traditional image processing consists of several steps, like
 
 ![Decision tree for classification based on object descriptors](DecisionTree.jpg)
 
-The Image_Processing_Demo.ipynb notebook displays the image processing and uses the training data to extract values for the parameters used for the digit classification. The Image_Processing_Classifier.ipynb uses the test data set and features the complete classification procedure. It also contains a random classifier.
+The Image_Processing_Demo.ipynb notebook displays the image processing pipeline and uses the training data to extract values for the parameters used for the digit classification. The Image_Processing_Classifier.ipynb uses the test data set and features the complete classification procedure. It also contains a random classifier.
 
 ## Deep Learning
 
